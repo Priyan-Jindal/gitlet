@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 import java.io.FileWriter;
 /** Driver class for Gitlet, the tiny version-control system.
- *  @author Aditya Prasad Biswal
+ *  @author Priyan Jindal
  */
 public class Main {
 
